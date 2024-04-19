@@ -1,3 +1,4 @@
+#ifndef ARRAYQUEUE_HPP
 #define ARRAYQUEUE_HPP
 
 #include <stdexcept>
